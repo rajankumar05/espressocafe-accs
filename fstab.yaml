@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/rajankumar05/espressocafe-accs/
+    type: markup
+
+folders:
+  /products/: /products/default
